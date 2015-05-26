@@ -3,7 +3,8 @@
 
 
 $PluginInfo['responsiveCategoryImage_vanilla'] = array(
-    'Description' => 'Adds a responsive image to the tops of the category page.',
+    'Name' => 'Responsive Category Image',
+    'Description' => 'Adds a responsive image to the top of category pages.',
     'Version' => '0.9',
     'RequiredApplications' => array('Vanilla' => '2.1'),
     'License'=>"GNU GPL2",
