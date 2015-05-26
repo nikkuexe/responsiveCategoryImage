@@ -1,0 +1,11 @@
+
+	         
+div#Content  div.cat-image {
+	         background-position: 50%;
+	         background-repeat: no-repeat;
+	         background-size: cover;
+	         margin: 0 auto;
+	         min-height: 240px;
+	         max-height: 320px;
+	         max-width: 100%; 
+	         }         
